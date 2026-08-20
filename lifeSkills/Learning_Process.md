@@ -17,3 +17,10 @@ What are active and diffuse modes of thinking?
 ## Question 4
 
 According to the video, what are the steps to take when approaching a new topic? Only mention the points.
+- Break the topic into smaller parts
+- Don't spend too much time learning before you start practicing.
+
+## Question 5
+
+What are some of the actions you can take going forward to improve your learning process?
+- I will use active and diffuse mode of learning to improve my learning process
