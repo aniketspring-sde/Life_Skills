@@ -19,4 +19,20 @@ According to Fisher's model, what are the key points of Reflective Listening?
 ## Question 3
 
 What are the obstacles in your listening process?
--
+- Distracted by my own thoughts.
+- Lack of focus on the speaker's thoughts.
+- Thinking about a response without listening to the speaker.
+## Question 4
+
+What can you do to improve your listening?
+- To improve my listening skill i can try to make eye contact with the speaker and try to understand their thoughts, body language, and emotions, and I will try not to judge.
+
+## Question 5
+
+When do you switch to Passive communication style in your day to day life?
+- When I try to avoid conflict, disagreement, and waste of time with other people.
+
+## Question 6
+
+When do you switch into Aggressive communication styles in your day to day life?
+- When I need to express my thoughts and when I become frustrated.
