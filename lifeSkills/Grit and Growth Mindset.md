@@ -6,4 +6,5 @@ Paraphrase (summarize) the video in a few (1 or 2) lines. Use your own words.
 ## Question 2
 
 Paraphrase (summarize) the video in a few (1 or 2) lines in your own words.
-- 
+- The topic of this video is Locus of Control, which means we should focus and put effort into the things that are in our control and not care about the external factors affecting the result; focus on the     process.
+
