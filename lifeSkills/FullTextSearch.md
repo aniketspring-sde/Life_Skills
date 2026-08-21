@@ -97,21 +97,16 @@ faceted search, advanced caching, filtering, and distributed search.
 
 ## Comparison
 
-  ---------------------------------------------------------------------------
-  Feature          Lucene           Elasticsearch              Solr
-  ---------------- ---------------- -------------------------- --------------
-  Type             Java Library     Search Engine              Enterprise
-                                                               Search
-                                                               Platform
-
-  REST API         No               Yes                        Yes
-
-  Distributed      No               Yes                        Yes
-  Search                                                       
-
-  Best For         Embedded Java    Large-Scale Applications   Enterprise
-                   Applications                                Applications
-  ---------------------------------------------------------------------------
+| Feature | Lucene | Elasticsearch | Solr |
+|---|---|---|---|
+| **Type** | Java Search Library | Distributed Search Engine | Enterprise Search Platform |
+| **REST API** | No | Yes | Yes |
+| **Distributed Search** | No | Yes | Yes |
+| **Built On** | — | Apache Lucene | Apache Lucene |
+| **Best For** | Embedded search in Java applications | Large-scale distributed applications | Enterprise search applications |
+| **Clustering** | No | Yes | Yes |
+| **Ease of Use** | Requires programming | Easy through REST APIs | Easy through REST APIs |
+| **Typical Use Cases** | Custom search functionality | Logs, analytics, product search, real-time search | Enterprise search, document indexing |
 
 ## Recommendation
 
