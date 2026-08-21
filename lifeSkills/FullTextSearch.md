@@ -121,3 +121,10 @@ Lucene, Elasticsearch, and Solr improve full-text search by using
 indexing instead of scanning every database record. For most modern
 applications, Elasticsearch is the preferred solution because it offers
 high performance, scalability, and reliable search capabilities.
+
+
+### References
+- https://www.elastic.co/docs/reference/query-languages/query-dsl/full-text-queries
+- https://lucene.apache.org/core/
+- https://www.elastic.co/docs/reference/elasticsearch
+- https://solr.apache.org/guide/solr/latest/index.html
