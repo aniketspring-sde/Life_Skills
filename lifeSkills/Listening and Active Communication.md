@@ -36,3 +36,18 @@ When do you switch to Passive communication style in your day to day life?
 
 When do you switch into Aggressive communication styles in your day to day life?
 - When I need to express my thoughts and when I become frustrated.
+
+## Question 7
+
+When do you switch into Passive Aggressive (sarcasm/gossiping/taunts/silent treatment and others) communication styles in your day to day life?
+- I may switch to passive-aggressive communication when I am upset or frustrated but do not want to express my feelings directly.
+
+## Question 8
+
+How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life?
+- I can make my communication more **assertive** by learning to express my thoughts, feelings, needs, and boundaries clearly while still respecting the other person's rights and feelings.
+- I can make my communication assertive by expressing my thoughts clearly and directly; I should not expect others to understand my feelings.
+- I should use calm and respectful tone and listen carefully.
+
+
+
