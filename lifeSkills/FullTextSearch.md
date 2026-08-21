@@ -35,11 +35,11 @@ data, not for performing large-scale text searches.
 An **Inverted Index** stores each word along with the documents that
 contain it.
 
-  Word     Documents
-  -------- -----------
-  Java     1, 2
-  Python   3
-  Easy     1, 3
+ | Word   | Documents |
+|--------|-----------|
+| Java   | 1, 2      |
+| Python | 3         |
+| Easy   | 1, 3      |
 
 When someone searches for **Java**, the search engine immediately knows
 that it appears in Documents 1 and 2.
