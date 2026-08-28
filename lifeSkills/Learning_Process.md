@@ -1,6 +1,6 @@
 ## Question 1
 
-What is the Feynman Technique?
+What is the Feynman Technique?       
 -The Feynman Technique is a learning method says that to understand anything, try to explain it in simple language as if you were teaching it to someone else.
 ## Question 2
 
