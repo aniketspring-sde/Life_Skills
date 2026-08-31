@@ -44,5 +44,5 @@ Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, on
 
 ## Question 7
 
-What are some steps you can take to exercise more?
+What are some steps you can take to exercise more?     
 -I already do cardio and strength training on Sundays. On my working days, I usually don't get enough time for exercise.
